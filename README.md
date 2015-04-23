@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# simple_phoenix
-=======
 ![phoenix logo](https://raw.githubusercontent.com/phoenixframework/phoenix/master/priv/static/phoenix.png)
 > Elixir Web Framework targeting full-featured, fault tolerant applications with realtime functionality
 
@@ -46,4 +43,3 @@ $ brunch watch
   [1]: https://github.com/phoenixframework/phoenix/issues
   [2]: http://groups.google.com/group/phoenix-talk
   [3]: http://groups.google.com/group/phoenix-core
->>>>>>> 62487088bb5e95a2f7abf0409ff5562f5b2134c5
